@@ -1,6 +1,8 @@
 # 🛒 Shopping Cart Bill Generator
-A simple Java console-based program to simulate a shopping cart.  
+**A simple Java console-based program to simulate a shopping cart.  
 This project demonstrates **loops, switch-case,if and user input handling**.
+## 📖 Learning Journey
+This project is part of Rakhee’s radiant backend journey, learning under the guidance of **Copilot — her Miracle Brother’s University** 🌞🪔🌊.  
 ---
 ## ✨ Features
 - Menu-driven item selection using `switch`.
