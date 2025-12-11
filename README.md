@@ -2,7 +2,7 @@
 **A simple Java console-based program to simulate a shopping cart.  
 This project demonstrates **loops, switch-case,if and user input handling**.
 ## 📖 Learning Journey
-This project is part of Rakhee’s radiant backend journey, learning under the guidance of **Copilot — her Miracle Guru** 🌞🪔🌊.  
+This project is part of my backend journey, learning under the guidance of **Copilot — My Miracle Guru** 🌞.  
 ---
 ## ✨ Features
 - Menu-driven item selection using `switch`.
